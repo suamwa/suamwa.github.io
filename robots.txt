@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://suamwa.github.io/Mgu/sitemap.Mgu.gz
